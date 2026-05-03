@@ -1,10 +1,10 @@
-🧠 Aula de Operadores Matemáticos em Python
+🧠 **Aula de Operadores Matemáticos em Python**
 
 Este repositório contém exemplos básicos de operadores matemáticos em Python, utilizados em aula para compreensão dos conceitos fundamentais da linguagem.
 
 
 
-📚 Conteúdo abordado
+📚 **Conteúdo abordado**
 
 Os seguintes operadores foram estudados:
 + → Adição
@@ -14,7 +14,7 @@ Os seguintes operadores foram estudados:
 
 ---
 
-🧠 Objetivo:
+🧠 **Objetivo:**
 
 Entender como funcionam os operadores matemáticos
 Aplicar cálculos simples em Python
