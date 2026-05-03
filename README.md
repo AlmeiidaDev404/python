@@ -8,7 +8,7 @@ Os seguintes operadores foram estudados:
 + → Adição
 - → Subtração
 * → Multiplicação
-/ → Divisão
+* / → Divisão
 
 🧠 Objetivo:
 
