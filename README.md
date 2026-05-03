@@ -1,4 +1,4 @@
-#🧠 Aula de Operadores Matemáticos em Python
+##🧠 Aula de Operadores Matemáticos em Python
 
 Este repositório contém exemplos básicos de operadores matemáticos em Python, utilizados em aula para compreensão dos conceitos fundamentais da linguagem.
 
